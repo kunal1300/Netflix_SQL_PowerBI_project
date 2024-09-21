@@ -1,20 +1,16 @@
-# Uber Data Analytics Project 2016 
+# NETFLIX- PowerBi Dashboard 
 
 
 ### 1. Introduction 
 _______________________________________________________
 
-In this Project, I perform data analytics on Uber data using tools and technology
-   
-   - GCP Storage
-   - Python with the help of Jupiter Notebook
-   - Compute Instances
-   - Mage data pipeline tool
-   - Big Query
-   - Looker Studio
+In this Project, I perform data analytics on Netflix data 
 
-## Architecture
-![architecture](https://github.com/kunal1300/Uber_Project/assets/46293411/730dca14-9e46-4308-a039-d8350b6a6312)
+   - split Tect to column 
+   - Trim and separate Data
+   - sort and filter Data
+   - common Calculation (Sum,Avg,Max,Min)
+   - Setup Relational Tables for BI with help of workbench
 _____________________________________________________________________________________________________________
 
 ### 2. Technology 
