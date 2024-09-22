@@ -6,7 +6,7 @@ _______________________________________________________
 
 In this Project, I perform data analytics on Netflix data 
 
-   - split Tect to column 
+   - split Text to column 
    - Trim and separate Data
    - sort and filter Data
    - common Calculation (Sum,Avg,Max,Min)
