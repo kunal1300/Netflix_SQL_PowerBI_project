@@ -13,7 +13,7 @@ Removing and adding columns as necessary in the tables and preparing the databas
 
 # SQL queries for data cleaning and exploration
 Data acquired is cleansed using SQL queries here 
-
+https://github.com/kunal1300/Netflix_SQL_PowerBI_project/tree/868ca9a3696334134ec9fb771172af8e2ebf7dc8/Sql%20scripts
 
 
 
