@@ -27,11 +27,10 @@ modified into the MySQL workbench. The file was modified by combining all the da
 
 # To check out the Dashboard
 
-https://lookerstudio.google.com/s/jpL6SZY-n0U
 
 Preview Of Pages
 
-
+https://jsainsbury-my.sharepoint.com/:u:/r/personal/kunal_solanki_5949_mysainsburys_co_uk/Documents/Attachments/Netflixstudy.pbix?csf=1&web=1&e=V3riXc
 
 
 
