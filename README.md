@@ -1,4 +1,39 @@
-# NETFLIX- PowerBi Dashboard 
+# NETFLIX Insights uing SQL and PowerBi Dashboard 
+_________________________________________________________________________________________
+Project description,functions,queries written,environment used are mentioned in readme.
+
+# Netflix Data - Cleaning & Exploration
+Removing and adding columns as necessary in the tables and preparing the database tables for Analysis. Data subset collected in SQL dump file and loaded to SQL server for exploring the data tables. Tables:
+1. Netflix Titles.
+2. List
+3. Description
+4. Direcctors
+5. Country
+6. Cast
+
+# SQL queries for data cleaning and exploration
+Data acquired is cleansed using SQL queries here 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### 1. Introduction 
