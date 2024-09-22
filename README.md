@@ -10,14 +10,15 @@ In this Project, I perform data analytics on Netflix data
    - Trim and separate Data
    - sort and filter Data
    - common Calculation (Sum,Avg,Max,Min)
-   - Setup Relational Tables for BI with help of workbench
+   - Setup Relational Tables for BI with help of MySQL workbench
 _____________________________________________________________________________________________________________
 
 ### 2. Technology 
 ________________________________________________________________
  - Programming language - SQL and Dax
- - Concept of SQL
+ - Concept of SQL & DAX
  - MySQL workbeanch
+ - PowerBI
 
 
 ## Data Used
