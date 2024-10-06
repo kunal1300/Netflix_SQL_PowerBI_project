@@ -57,8 +57,7 @@ ________________________________________________________________
 
 
 ## Data Used
-The data used in this is open-source and contains all the information regarding Netflix, including 1 file with all the data regarding movies and TV shows. The data contains null values and then, it was sorted and extracted in different files with different fields of Casts, countries, Descriptions, Directors, Lists and Netflix fields. Then the file was  
-modified into the MySQL workbench. The file was modified by combining all the data by using the Union function as well as creating a new file.
+The data used in this is open-source and contains all the information regarding Netflix, including 1 file with all the data regarding movies and TV shows. The data contains null values and then, it was sorted and extracted in different files with different fields of Casts, countries, Descriptions, Directors, Lists and Netflix fields. Then the file was modified into the MySQL workbench. The file was modified by combining all the data by using the Union function as well as creating a new file.
 
 
 # To check out the Dashboard
