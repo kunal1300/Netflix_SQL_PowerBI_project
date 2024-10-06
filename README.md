@@ -67,7 +67,7 @@ modified into the MySQL workbench. The file was modified by combining all the da
 
 Insight Description:
 
-The image you provided contains information about a Netflix movie titled **"A Very Murray Christmas"**. Here's a breakdown of the key insights from the image:
+The image contains information about a Netflix movie titled **"A Very Murray Christmas"**. Here's a breakdown of the key insights from the image:
 
 1. **Title of the Movie**:  
    - "A Very Murray Christmas"
